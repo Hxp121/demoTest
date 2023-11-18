@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("你好   1");
         System.out.println("你好   2");
         System.out.println("你好   master");
+        System.out.println("你好   hot-fix");
     }
 }
